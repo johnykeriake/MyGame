@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/MusicOn"
+        android:title="@string/MusicOn"/>
+    <item android:id="@+id/MusicOff"
+        android:title="@string/MusicOff"/>
+    <item android:id="@+id/language"
+        android:title="@string/language">
+        <menu>
+            <item android:id="@+id/English"
+                android:title="@string/english"/>
+            <item android:id="@+id/Arabic"
+                android:title="@string/arabic"/>
+
+        </menu>
+
+        </item>
+<item android:id="@+id/AboutUs"
+    android:title="@string/aboutus"/>
+    <item android:id="@+id/Exit"
+        android:title="@string/exit"/>
+
+
+
+
+</menu>

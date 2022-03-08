@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Hundred</string>
+    <string name="openstart">إبدأ</string>
+    <string name="oneplayer">لاعب واحد</string>
+    <string name="twoplayers">لاعبان اثنان</string>
+    <string name="easy">سهل</string>
+    <string name="medum">متوسط</string>
+    <string name="hard">صعب</string>
+    <string name="add">إضافة</string>
+    <string name="IamNotFirst">الخصم اولاً</string>
+    <string name="player1">اللاعب الأول</string>
+    <string name="player2">اللاعب الثاني</string>
+    <string name="MusicOn">تشغيل الموسيقا</string>
+    <string name="MusicOff">إطفاء الموسيقا</string>
+    <string name="aboutus">لمحة عنا</string>
+    <string name="exit">خروج</string>
+    <string name="Congrtulationstoyou">تهانيناً لك!</string>
+    <string name="CongrtulationsEasy">هههه ، أنا فقط أمازحك اذهب إلى المستوى التالي وسأعلمك كيفية اللعب</string>
+    <string name="error">خطأ!</string>
+    <string name="badLuck">حظ أوفر!</string>
+    <string name="losteasy">يمكنك القيام بذلك حاول مرة أخرى</string>
+    <string name="Again">مرة أخرى</string>
+    <string name="next">التالي</string>
+    <string name="justclicked">"لقد ضغطت للتو "</string>
+    <string name="didnotputanumber">لم تضع أي رقم!</string>
+    <string name="language">اللغة</string>
+    <string name="english">الإنجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="congratulationsMedum">هههه،هل تعتقد أنك أينشنتاين؟ إذهب إلى المستوى التالي لأهزمك!</string>
+    <string name="Lost">لقد خسرت!</string>
+    <string name="lostMedum">حظ أفضل في المرات القادمة</string>
+    <string name="lostHard">" جوني ينتظرك في المستوى الأخير ، حاول مرة أخرى لبدء المنافسة "</string>
+    <string name="congratulationsHard">برافو ... أنت الآن في المستوى المقبول للتنافس مع جوني</string>
+    <string name="gameRules">لعبة بسيطة وسهلة حيث يمكن (لشخصان) أو (لشخص واحد ضد الكمبيوتر) المشاركة في اللعبة ، يضيف كل لاعب رقمًا من 1 إلى 10 حيث يكون الرقمان 1 و 10 مقبولان ، والفائز هو من يصل إلى رقم 100 أولا.</string>
+    <string name="rulebutton">قواعد اللعبة</string>
+    <string name="aboutuswriting">مرحبًا بالجميع ، أنا سعيد جدًا لأنك تلعب لعبتي ، اسمي Johnny Fade Keriake وهذا هو أول مشروع لي ، لقد صنعت هذه اللعبة في 1/3/2022.</string>
+</resources>

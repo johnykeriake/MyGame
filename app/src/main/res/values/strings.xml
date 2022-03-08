@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">One Hundred</string>
+    <string name="openstart">Start</string>
+    <string name="oneplayer">ONE PLAYER</string>
+    <string name="twoplayers">TWO PLAYERS</string>
+    <string name="easy">EASY</string>
+    <string name="medum">MEDUM</string>
+    <string name="hard">HARD</string>
+    <string name="add">ADD</string>
+    <string name="IamNotFirst">Iam Not First</string>
+    <string name="player1">PLAYER 1</string>
+    <string name="player2">PLAYER 2</string>
+    <string name="MusicOn">Music On</string>
+    <string name="MusicOff">Music Off</string>
+    <string name="aboutus">About Us</string>
+    <string name="exit">Exit</string>
+    <string name="Congrtulationstoyou">Congrtulations to you!</string>
+    <string name="CongrtulationsEasy">HaHaHa,I\'m just kidding you go to the next level and i will show you how to play</string>
+    <string name="error">Error!!</string>
+    <string name="badLuck">Bad Luck!</string>
+    <string name="losteasy">you can do it just try again</string>
+    <string name="Again">Again</string>
+    <string name="next">Next</string>
+    <string name="justclicked">you have just clicked on it</string>
+    <string name="didnotputanumber">you didn\'t put a number!</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="congratulationsMedum">HaHaHa,you think you are Einstein go to the next level to crush you!</string>
+    <string name="Lost">You lost!</string>
+    <string name="lostMedum">Better luck next time</string>
+    <string name="lostHard">johnny is waiting you in the last level try again to start the competition</string>
+    <string name="congratulationsHard">Bravo...you are now at acceptable level to compete with johnny</string>
+    <string name="gameRules">A simple and easy game where (two people) or (one person against the computer) can participate in the game, each player adds a number from 1 to 10 where the numbers 1 and 10 are acceptable, the winner is the one who reaches the number 100 first.</string>
+    <string name="rulebutton">Game Rules</string>
+    <string name="aboutuswriting">Hello everybody ,I\'m so glad because you are playing my game ,My name is Johnny Fade Keriake and this is my first project, i made this game in 1/3/2022.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+
+
+
+</resources>
